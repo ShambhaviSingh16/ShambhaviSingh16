@@ -65,12 +65,19 @@ Here are some ideas to get you started:
 
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
+</div>-->
+
+# 🐍 My Contributions 🐍
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
+
 
 <hr/>
 
