@@ -74,7 +74,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.gif" />
+  <img src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake-dark.svg" />
+
   <br/><br/><br/>
 </div>
 
