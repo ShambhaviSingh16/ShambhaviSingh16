@@ -29,11 +29,6 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shambhavi+Singh.🚀;" />
 </h1>
-
-
-
-
-<!--
 <h3 align="center">A passionate Software developer from India</h3>
 
 <br/>
@@ -76,9 +71,7 @@ Here are some ideas to get you started:
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rahmaaaan/Rahmaaaan/output/github-contribution-grid-snake.svg" />
    <br/><br/><br/>
-</div> -->
-
-
+</div> 
 
 
 
@@ -89,59 +82,16 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.svg" alt="s" />
 </div> -->
 
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShambhaviSingh16&show_icons=true&theme=default)-->
 
 
 
 
-
-
-<!--  <hr/>
+<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<br/>-->
-
-
-# 
-
-🎓 MCA Graduate | Full Stack Developer  
-💻 Java • React • MySQL • Blockchain  
-📍 Bangalore, India  
-
----
-
-## 🚀 About Me
-I am a passionate Full Stack Developer with hands-on experience in building
-scalable web applications and decentralized systems. I enjoy solving real-world
-problems and creating clean, user-focused solutions.
-
----
-
-## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Java, Node.js, Express, Firebase
-- **Database:** MySQL, MongoDB
-- **Blockchain:** Ethereum, Solidity, MetaMask
-- **Tools:** Git, GitHub, Docker, Vercel
-
----
-
-## 📌 Featured Projects
-- 🔹 **Portfolio Website**  
-  👉 https://shambhavisingh.vercel.app
-
-- 🔹 **BudgetBuddy** – Blockchain Expense Tracker  
-  👉 https://github.com/ShambhaviSingh16/BudgetBuddy
-
-- 🔹 **Online Reservation Portal**  
-  👉 https://github.com/ShambhaviSingh16/Online-Reservation-Portal
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/shambhavi-singh2023
-- 🌐 Portfolio: https://shambhavisingh.vercel.app
-- 📧 Email: sshambhavi89@gmail.com
-
+<br/>
