@@ -58,9 +58,24 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,jquery,react,redux,nextjs"/><br>
+    <!--<img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,ts,jquery,react,redux,nextjs"/><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,supabase,firebase"/><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,replit,postman"/><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,replit,postman"/><br>-->
+ <!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,figma" />
+<br><br>
+
+<!-- Backend & Database -->
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,python,mysql,mongodb,firebase" />
+<br><br>
+
+<!-- Blockchain 
+<img src="https://skillicons.dev/icons?i=ethereum,solidity" />
+<br><br>-->
+
+<!-- Tools & Deployment -->
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,vscode,vercel" />
+
 </div>
 <br/>
 
@@ -70,8 +85,13 @@ Here are some ideas to get you started:
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.svg" />
-   <br/><br/><br/>
+ <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.svg" />
+   <br/><br/><br/>-->
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShambhaviSingh16/ShambhaviSingh16/output/github-contribution-grid-snake.svg">
+  </picture>
 </div> 
 
 
