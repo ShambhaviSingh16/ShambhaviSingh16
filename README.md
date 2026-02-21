@@ -56,10 +56,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <!-- HackerRank -->
+  <!-- HackerRank 
   <a href="https://www.hackerrank.com/profile/sshambhavi89" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+  </a>-->
 </div>
 
  <hr/>
